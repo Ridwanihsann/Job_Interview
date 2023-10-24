@@ -84,8 +84,7 @@ Teknologi yang akan saya gunakan dalam pembuatan aplikasi ini diantaranya yaitu 
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+![alt text](https://github.com/Ridwanihsann/Job_Interview/blob/main/ux.png?raw=true)
 
 ## 7. Demonstrasi Video
 

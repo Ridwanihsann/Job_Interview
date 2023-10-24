@@ -73,10 +73,10 @@ erDiagram
 
 ## 4. Arsitektur Sistem
 
-- Database : FireBase
-- Aplikasi web Backend : Java
-- Web Server : 
-- Aplikasi android : Java
+```mermaid
+graph TD;
+    Database:FireBase<-->Aplikasi_web_Backend:Java<-->Aplikasi_android:Java;
+```
 
 ## 5. Teknologi, Library, dan Framework
 

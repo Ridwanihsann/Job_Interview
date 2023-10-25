@@ -2,11 +2,11 @@ Membuat aplikasi Chat
 
 ## 1.1 Latar Belakang
 
-Saat ini perkembangan teknologi begitu pesat terutama internet, dengan adanya internet kita dapat melakukan banyak haln diantaranya kita dapat mengirim sebuah pesan menggunakan aplikasi chat messenger atau instant messenger atau yang biasa disebut chatting, yaitu suatu teknologi jaringan yang dapat membantu penggunanya mengirimkan pesan secara realtime ke pengguna lain yang tersambung dalam sebuah jaringan dengan waktu yang begitu cepat. Maka dari itu saya ingin mencoba membuat sebuah aplikasi chat yang dapat memudahkan pengguna untuk berkomunikasi dengan cepat dan nyaman.
+Saat ini perkembangan teknologi begitu pesat terutama internet, dengan adanya internet kita dapat melakukan banyak hal diantaranya kita dapat mengirim sebuah pesan menggunakan aplikasi chat messenger atau instant messenger atau yang biasa disebut chatting, yaitu suatu teknologi jaringan yang dapat membantu penggunanya mengirimkan pesan secara realtime ke pengguna lain yang tersambung dalam sebuah jaringan dengan waktu yang begitu cepat. Maka dari itu saya ingin mencoba membuat sebuah aplikasi chat yang dapat memudahkan pengguna untuk berkomunikasi dengan cepat dan nyaman.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Aplikasi yang akan saya buat yaitu sebuah aplikasi chat yang akan diberi nama MrChat yang mana nanti pengguna dapat berkominisai dengan mengirim atau menerima chat atau dapat juga melakukan panggilan, dan pengguna juga dapat melihat atau mengirim status berupa image, video, atau cuitan, serta pengguna dapat mencari teman yang berada disekitarnya. 
+Aplikasi yang akan saya buat yaitu sebuah aplikasi chat yang akan diberi nama MrChat yang mana nanti pengguna dapat berkominikasi dengan mengirim atau menerima chat atau dapat juga melakukan panggilan, dan pengguna juga dapat melihat atau mengirim status berupa image, video, atau cuitan, serta pengguna dapat mencari teman yang berada disekitarnya. 
 
 ## 1.3. Branding
 
@@ -26,7 +26,7 @@ Target user: Usia 7+
 
 User experience theme:
 - Mudah
-- Sederhana
+- Simple
 - Menyenangkan
 - Warna: dark blue yang tidak akan membuat mata cepat lelah
 

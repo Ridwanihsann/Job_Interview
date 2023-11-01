@@ -29,6 +29,11 @@ User experience theme:
 - Simple
 - Menyenangkan
 - Warna: dark blue yang tidak akan membuat mata cepat lelah
+- Inspirasi desain :
+
+  ![alt text](https://github.com/Ridwanihsann/Job_Interview/blob/main/MrChatImg/attachment_122740303.png?raw=true)
+  ![alt text](https://github.com/Ridwanihsann/Job_Interview/blob/main/MrChatImg/ccd8988054f76e004649937c2045a1db.jpg?raw=true)
+  
 
 ## 2. User Story
 
